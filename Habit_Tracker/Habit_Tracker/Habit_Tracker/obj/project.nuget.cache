@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "e/3dZyIL7eIuEYh/cpk2L2PKRBXiLeAlA0Z0hKwW+tK7yWJ3O2TJoCh3Mg4zsiVk2ptrBxykxmlZJShCeSrVhw==",
+  "dgSpecHash": "Fu4moTNd52jvITMh2cDwhfBvT9L3etNmkNinqJOcqKG8f+RmI/ufXiCy5o0qHUGsDYe7x7rfcXGY0IjdE0ioFQ==",
   "success": true,
-  "projectFilePath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.csproj",
+  "projectFilePath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker/Habit_Tracker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\samwh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\samwh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\samwh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/charleswhorton/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/charleswhorton/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }

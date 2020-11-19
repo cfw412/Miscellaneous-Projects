@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -90,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Habit_Tracker\Habit_Tracker.csproj">
-      <Project>{9BD39CCB-6AA5-4D91-81EB-A851AD40E757}</Project>
+      <Project>{1B2790C0-09A2-49BB-9755-F5741B2EA2DE}</Project>
       <Name>Habit_Tracker</Name>
     </ProjectReference>
   </ItemGroup>

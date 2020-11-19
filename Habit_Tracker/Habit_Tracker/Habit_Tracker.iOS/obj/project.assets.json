@@ -981,39 +981,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samwh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/charleswhorton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.iOS\\Habit_Tracker.iOS.csproj",
+      "projectUniqueName": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.iOS/Habit_Tracker.iOS.csproj",
       "projectName": "Habit_Tracker.iOS",
-      "projectPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.iOS\\Habit_Tracker.iOS.csproj",
-      "packagesPath": "C:\\Users\\samwh\\.nuget\\packages\\",
-      "outputPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.iOS\\obj\\",
+      "projectPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.iOS/Habit_Tracker.iOS.csproj",
+      "packagesPath": "/Users/charleswhorton/.nuget/packages/",
+      "outputPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\samwh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/charleswhorton/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.csproj": {
-              "projectPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.csproj"
+            "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker/Habit_Tracker.csproj": {
+              "projectPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker/Habit_Tracker.csproj"
             }
           }
         }

@@ -1933,39 +1933,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samwh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/charleswhorton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.Android\\Habit_Tracker.Android.csproj",
+      "projectUniqueName": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.Android/Habit_Tracker.Android.csproj",
       "projectName": "Habit_Tracker.Android",
-      "projectPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.Android\\Habit_Tracker.Android.csproj",
-      "packagesPath": "C:\\Users\\samwh\\.nuget\\packages\\",
-      "outputPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.Android\\obj\\",
+      "projectPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.Android/Habit_Tracker.Android.csproj",
+      "packagesPath": "/Users/charleswhorton/.nuget/packages/",
+      "outputPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\samwh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/charleswhorton/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.csproj": {
-              "projectPath": "D:\\Misc. Projects\\Miscellaneous-Projects\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker\\Habit_Tracker.csproj"
+            "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker/Habit_Tracker.csproj": {
+              "projectPath": "/Users/charleswhorton/Desktop/Misc Projects/Miscellaneous-Projects/Habit_Tracker/Habit_Tracker/Habit_Tracker/Habit_Tracker.csproj"
             }
           }
         }
