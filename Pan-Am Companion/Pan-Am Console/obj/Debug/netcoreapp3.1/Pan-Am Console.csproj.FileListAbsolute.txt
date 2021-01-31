@@ -1,0 +1,16 @@
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.exe
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.deps.json
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.runtimeconfig.json
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.runtimeconfig.dev.json
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.dll
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Console.pdb
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Class Library.dll
+E:\Projects\Pan-Am Companion\Pan-Am Console\bin\Debug\netcoreapp3.1\Pan-Am Class Library.pdb
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.csprojAssemblyReference.cache
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.AssemblyInfoInputs.cache
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.AssemblyInfo.cs
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.csproj.CoreCompileInputs.cache
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.csproj.CopyComplete
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.dll
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.pdb
+E:\Projects\Pan-Am Companion\Pan-Am Console\obj\Debug\netcoreapp3.1\Pan-Am Console.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+E:\Projects\Pan-Am Companion\Pan-Am Companion\bin\Debug\Pan-Am Companion.exe.config
+E:\Projects\Pan-Am Companion\Pan-Am Companion\bin\Debug\Pan-Am Companion.exe
+E:\Projects\Pan-Am Companion\Pan-Am Companion\bin\Debug\Pan-Am Companion.pdb
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan-Am Companion.csprojAssemblyReference.cache
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan_Am_Companion.Properties.Resources.resources
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan-Am Companion.csproj.GenerateResource.cache
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan-Am Companion.csproj.CoreCompileInputs.cache
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan-Am Companion.exe
+E:\Projects\Pan-Am Companion\Pan-Am Companion\obj\Debug\Pan-Am Companion.pdb

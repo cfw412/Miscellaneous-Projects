@@ -1,0 +1,9 @@
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\bin\Debug\netstandard2.0\Pan-Am Class Library.deps.json
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\bin\Debug\netstandard2.0\Pan-Am Class Library.dll
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\bin\Debug\netstandard2.0\Pan-Am Class Library.pdb
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.csprojAssemblyReference.cache
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.AssemblyInfoInputs.cache
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.AssemblyInfo.cs
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.csproj.CoreCompileInputs.cache
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.dll
+E:\Projects\Pan-Am Companion\Pan-Am Class Library\obj\Debug\netstandard2.0\Pan-Am Class Library.pdb
